@@ -1,0 +1,18 @@
+{
+  "short_name": "AyeshaStore",
+  "name": "Ayesha Online Store",
+  "icons": [
+    {
+      "src": "logo-electrical.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ed7a1a"
+}
+
+
